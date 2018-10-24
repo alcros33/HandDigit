@@ -1,6 +1,6 @@
 # HandDigit
-My first MLPack Machine Learning Project which aimed to predict the sign language digits based on images from a Kaggle Dataset using
-an over-simplistic approach with Knn.
+My first MLPack Machine Learning Project.
+THe main goal was to predict the number from a Dataset of sign language digit photographs with an over-simplistic approach using K-nn algorithm.
 
 ## Requirements
 * OpenCV
@@ -9,7 +9,8 @@ an over-simplistic approach with Knn.
 * OpenMP
 
 ## Dataset
-Included!
+Taken from [https://github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
+But I will include it here
 
 ## Usage
 First create the DB using the images from the Dataset
