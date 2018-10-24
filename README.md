@@ -1,6 +1,7 @@
 # HandDigit
 My first MLPack Machine Learning Project.
-THe main goal was to predict the number from a Dataset of sign language digit photographs with an over-simplistic approach using K-nn algorithm.
+
+The main goal was to predict the number from a Dataset of sign language digit photographs with an over-simplistic approach using K-nn algorithm.
 
 ## Requirements
 * OpenCV
